@@ -1,5 +1,7 @@
 # Tab 5 Synth
 
+<img width="4032" height="3024" alt="Tab5Synth01" src="https://github.com/user-attachments/assets/806e7aab-ac78-45bd-8d90-75eb74309bb0" />
+
 ## What is it
 This app turns your M5Stack Tab5 device into a small battery powered, portable musical instrument. By default the app will use the Tab5’s built in speaker, but if headphones are plugged in the audio will be routed through them and the speaker will be muted.
 The primary user interface is a two octave virtual keyboard presented on the Tab5 LCD screen with a volume control and 3 virtual buttons that allow the user to select one of the three modes available.  The default mode is “Notes” which tells the app to play one note per keyboard key press.  The user can press up to 5 notes simultaneously to take advantage of the 5 note polyphony of the app.  The other two modes play a chord per keyboard key press.  One chord mode plays major chords and the other plays minor chords. 
